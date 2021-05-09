@@ -70,7 +70,7 @@ Control of visualized text information - on/off
     <body>
 ```
 
-2. Add Images in DIV with id="ffka_sc_wrap"
+2. Add Images in DIV with id="ffka_sc_wrap"  
 (src - Image file path / alt - Info text / srcset - YouTube or Vimeo embed link)
 
 ```
