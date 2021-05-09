@@ -84,10 +84,10 @@ Control of visualized text information - on/off
     </div>
 ```
 
-3. Add ffka-sc-photo.js аt the bottom of the page
+3. Add ffka-sc-photo-2.48.js аt the bottom of the page
 
 ```html
-    <script src="ffka-sc-photo.js" type="text/javascript"></script>
+    <script src="ffka-sc-photo-2.48.js" type="text/javascript"></script>
 
 </body>
 </html>
