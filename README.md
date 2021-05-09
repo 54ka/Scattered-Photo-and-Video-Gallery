@@ -10,7 +10,7 @@ Scattered Photo and Video Gallery is Pure (Vanilla) JavaScript Image Gallery.
 
 Scattered Photo and Video Gallery it's Compatible with Responsive design and is extremely easy to visually modify and use. Through it, you can create both static HTML and be integrated into dynamically generated content.
 
-[More info and examples](https://www.54ka.org/apps/scattered-photo-and-video-gallery)
+[More Info - Live Demos and Examples](https://www.54ka.org/apps/scattered-photo-and-video-gallery)
 
 
 # Features
@@ -95,6 +95,53 @@ Control of visualized text information - on/off
 </html>
 ```
 
+
+Customize settings
+-----------
+
+```js
+// Image size - For the long side
+var PhotoSize = 595;
+
+// Border size - use 0 if you don't wanna image border
+var BorderSize = 10;
+
+// Photos Shadow - from 0 to 99
+var PhotoShadow = 30;
+
+// Fullscreen or limit in parent element
+// true - Fullscreen - Use Browser size 
+// false - Use element size
+var Screen = true;
+
+// Scattering type
+// true - Internally 
+// false - Externally
+var Scattering = true;
+
+// Scattered Variation - 1,2,3 or 4
+// 1 - Scattered
+// 2 - Straight 
+// 3 - Scattered 3D 
+// 4 - Straight 3D
+var Arstr = 1;
+
+// Photo info
+// true - Show info 
+// false - Hide info
+var PhotoInfo = true;
+
+// Info screen Design - 1,2 or 3
+// 1 - Touched under the picture
+// 2 - Below the photo
+// 3 - Overlay on the photo
+var Info_Style = 3;
+
+// Dots Navigation
+// true - Show Navigation 
+// false - Hide Navigation
+var ShowNavigation = true;
+```
 
 
 # License
