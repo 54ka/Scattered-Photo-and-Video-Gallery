@@ -8,7 +8,7 @@
  * Scattered Photo Gallery by 54ka is licensed under the GPLv3 
  * http://choosealicense.com/licenses/gpl-3.0
  *
- * Copyright (c) 2020, www.54ka.org
+ * Copyright (c) 2021, www.54ka.org
 */
 
 /////////////////////////////////////////////////////////////////
