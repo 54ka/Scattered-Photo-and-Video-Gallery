@@ -39,8 +39,10 @@ Flat and 3D
 -----------
 Choice between Flat and 3D Scattered gallery
 
-* Flat Scattered / Flat Straight  
-* 3D Scattered / 3D Straight
+* Flat Scattered   
+* Flat Straight   
+* 3D Scattered  
+* 3D Straight
 
 Screen
 -----------
