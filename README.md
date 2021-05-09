@@ -1,11 +1,14 @@
 # Scattered Photo and Video Gallery by 54ka
+
 Version 2.48
+
+Scattered Photo and Video Gallery by <54ka> creates a Flat or 3D gallery of scattered pictures and videos, with many and easy ways to modify.
+
+Scattered Photo and Video Gallery is Pure (Vanilla) JavaScript Image Gallery.
 
 More info and examples:
 https://www.54ka.org/apps/scattered-photo-and-video-gallery
 
-
-Scattered Photo and Video Gallery by <54ka> creates a Flat or 3D gallery of scattered pictures and videos, with many and easy ways to modify. 
 
 # License
 
