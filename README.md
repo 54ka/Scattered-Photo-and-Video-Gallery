@@ -59,6 +59,10 @@ Control of visualized text information - on/off
 * Text box below the photo  
 * Text field under the photo (Polaroid type)  
 
+Slideshow
+-----------
+Enable or Disable Autoplay slideshow. Customize slideshow time duration in seconds
+
 
 # How to use
 
