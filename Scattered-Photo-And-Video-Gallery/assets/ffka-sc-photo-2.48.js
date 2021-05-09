@@ -14,7 +14,7 @@
 /////////////////////////////////////////////////////////////////
 // Customise ////////////////////////////////////////////////////
 
-// Image size - on the long side
+// Image size - For the long side
 var PhotoSize = 599;
 
 // Border size - use 0 if you don't wanna image border
@@ -23,31 +23,49 @@ var BorderSize = 10;
 // Photos Shadow - from 0 to 99
 var PhotoShadow = 30;
 
-// Fullscreen or limit in element like a DIV
-var Screen = true;    // true - Fullscreen - Use Browser size // false - Use element size
+// Fullscreen or limit in parent element
+// true - Fullscreen - Use Browser size 
+// false - Use element size
+var Screen = true;
 
 // Scattering type
-var Scattering = true;    // true - internally // false - externally
+// true - Internally 
+// false - Externally
+var Scattering = true;
 
 // Scattered Variation - 1,2,3 or 4
-var Arstr = 1;       // 1 - scattered // 2 - straight // 3 - scattered 3D // 4 - straight 3D
+// 1 - Scattered
+// 2 - Straight 
+// 3 - Scattered 3D 
+// 4 - Straight 3D
+var Arstr = 1;
 
 // Photo info
-var PhotoInfo = true;    // true - show info // false - hide info
+// true - Show info 
+// false - Hide info
+var PhotoInfo = true;
 
 // Info screen Design - 1,2 or 3
-var Info_Style = 2;       // 1 - touched under the picture // 2 - below the photo // 3 - overlay on the photo
+// 1 - Touched under the picture
+// 2 - Below the photo
+// 3 - Overlay on the photo
+var Info_Style = 2;
 
-// Navigation
-var ShowNavigation = true; // true - Show Navigation //false - Hide Navigation
+// Dots Navigation
+// true - Show Navigation 
+// false - Hide Navigation
+var ShowNavigation = true;
 
-// Slideshow Settings ////////////////////////////////////////////////////
+// Slideshow Settings ///////////////////////////////////////////
 
 // Auto Slide Show
-var AutoSlideShow = false; // true - Auto play slide show // false - Disable slide show
+// true - Auto play slide show 
+// false - Disable slide show
+var AutoSlideShow = false;
 
 // Time Duration
-var TimeDuration = 2; // Time Duration in seconds
+// Time Duration in seconds
+var TimeDuration = 2;
 
 // END Customise ////////////////////////////////////////////////
 /////////////////////////////////////////////////////////////////
