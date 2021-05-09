@@ -143,6 +143,16 @@ var Info_Style = 3;
 // true - Show Navigation 
 // false - Hide Navigation
 var ShowNavigation = true;
+
+// Slideshow Settings /////////
+
+// Auto Slide Show
+// true - Auto play slide show 
+// false - Disable slide show
+var AutoSlideShow = false;
+
+// Slideshow time duration in seconds
+var TimeDuration = 2;
 ```
 
 
