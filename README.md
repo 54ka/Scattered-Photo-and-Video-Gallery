@@ -26,8 +26,8 @@ Scattered
 -----------
 Choose between two types of scattering
 
-Internally  
-Externally  
+* Internally  
+* Externally  
 
 Navigation
 -----------
@@ -37,23 +37,23 @@ Flat and 3D
 -----------
 Choice between Flat and 3D Scattered gallery
 
-Flat Scattered / Flat Straight  
-3D Scattered / 3D Straight
+* Flat Scattered / Flat Straight  
+* 3D Scattered / 3D Straight
 
 Screen
 -----------
 Choosing a way to visualize
 
-View Full Screen in the browser  
-You can restrict the gallery only within part of the screen
+* View Full Screen in the browser  
+* You can restrict the gallery only within part of the screen
 
 Photo info
 -----------
 Control of visualized text information - on/off  
 
-Text box overlay the photo  
-Text box below the photo  
-Text field under the photo (Polaroid type)  
+* Text box overlay the photo  
+* Text box below the photo  
+* Text field under the photo (Polaroid type)  
 
 
 
