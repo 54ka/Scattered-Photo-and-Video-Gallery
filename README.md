@@ -56,6 +56,44 @@ Control of visualized text information - on/off
 * Text field under the photo (Polaroid type)  
 
 
+# How to use
+
+1. Add CSS: ffka-sc-photo.css
+
+```
+    <html>
+    <head>
+
+       <link rel="stylesheet" href="ffka-sc-photo.css" type="text/css">
+
+    </head>
+    <body>
+```
+
+2. Add Images in DIV with id="ffka_sc_wrap"
+(src - Image file path / alt - Info text / srcset - YouTube or Vimeo embed link)
+
+```
+    <div id="ffka_sc_wrap">
+      <!-- Example: Image, Info, Video -->
+       <img src="001.jpg" alt="add info here..." srcset="add YouTube or Vimeo embed link here">
+      <!-- Example: Image, Video -->
+       <img src="002.jpg" srcset="add YouTube or Vimeo embed link here">
+      <!-- Example: Image -->
+       <img src="003.jpg" >
+    </div>
+```
+
+3. Add ffka-sc-photo.js аt the bottom of the page
+
+```
+    <script src="ffka-sc-photo.js" type="text/javascript"></script>
+
+    </body>
+    </html>
+```
+
+
 
 # License
 
