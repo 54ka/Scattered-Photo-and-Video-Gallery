@@ -58,13 +58,12 @@ var ShowNavigation = true;
 
 // Slideshow Settings ///////////////////////////////////////////
 
-// Auto Slide Show
+// Auto Slideshow
 // true - Auto play slide show 
 // false - Disable slide show
 var AutoSlideShow = false;
 
-// Time Duration
-// Time Duration in seconds
+// Slideshow time duration in seconds
 var TimeDuration = 2;
 
 // END Customise ////////////////////////////////////////////////
