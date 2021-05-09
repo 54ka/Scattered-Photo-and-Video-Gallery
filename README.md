@@ -1,5 +1,4 @@
 # Scattered Photo and Video Gallery by 54ka
-=================================================
 Version 2.48
 
 More info and examples:
