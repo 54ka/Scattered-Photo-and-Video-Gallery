@@ -96,8 +96,8 @@ Control of visualized text information - on/off
 ```
 
 
-Customize settings
------------
+# Customize settings
+
 
 ```js
 // Image size - For the long side
