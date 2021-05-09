@@ -146,7 +146,7 @@ var ShowNavigation = true;
 
 // Slideshow Settings /////////
 
-// Auto Slide Show
+// Auto Slideshow
 // true - Auto play slide show 
 // false - Disable slide show
 var AutoSlideShow = false;
