@@ -18,9 +18,13 @@ Images
 Modify photos in gallery
 
 Displayed Horizontal and Vertical shots
+
 Determine size on the long side
+
 Easily create a Polaroid gallery
+
 Image border control
+
 Control of shadow intensity
 
 Scattered
